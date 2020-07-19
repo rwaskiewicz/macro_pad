@@ -1,5 +1,5 @@
 #pragma once
 
-#ifdef KEYBOARD_rwaskiewicz_bdn9_rev1
+#ifdef KEYBOARD_rwaskiewicz_macropad_rev1
     #include "rev1.h"
 #endif

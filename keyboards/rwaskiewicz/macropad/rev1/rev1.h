@@ -15,7 +15,7 @@
  */
 #pragma once
 
-#include "bdn9.h"
+#include "macropad.h"
 #include "quantum.h"
 
 /* This a shortcut to help you visually see your layout.
