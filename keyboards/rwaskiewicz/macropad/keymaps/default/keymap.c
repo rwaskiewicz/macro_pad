@@ -23,9 +23,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         | Left              | Down | Right              |
      */
     [0] = LAYOUT(
-        MO(1), KC_NO, KC_NO      ,
-        KC_F7, KC_F8, LSFT(KC_F8),
-        KC_NO, KC_NO, KC_F9
+        LSFT(KC_F9), KC_NO, MO(1)      ,
+        KC_F7      , KC_F8, LSFT(KC_F8),
+        KC_NO      , KC_NO, KC_F9
     ),
     /*
         | RESET          | N/A  | Media Stop |
